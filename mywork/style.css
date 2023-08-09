@@ -1,0 +1,252 @@
+body{
+    background-color: rgb(17, 3, 30);
+    height: 2500px;
+    font-family: sans-serif;
+}
+
+.item1{
+    background-color: rgb(29, 3, 56);
+    border-radius: 25px;
+    margin: 20px;
+    padding: 5px 0 30px;
+    
+}
+
+.container1{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.image1{
+    width: 150px;
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+}
+
+
+
+.menu1{
+    text-decoration: none;
+    color: rgb(212, 206, 215);
+    font-size: 1.5rem;
+    margin-right: 30px;
+}
+.menu2{
+    text-decoration: none;
+    color: rgb(212, 206, 215);
+    font-size: 1.5rem;
+    margin-right: 30px;
+}
+.menu3{
+    text-decoration: none;
+    color: rgb(212, 206, 215);
+    font-size: 1.5rem;
+    margin-right: 30px;
+}
+.menu4{
+    text-decoration: none;
+    color: rgb(212, 206, 215);
+    font-size: 1.5rem;
+    margin-right: 30px;
+}
+.menu5{
+    text-decoration: none;
+    color: rgb(80, 4, 118);
+    font-size: 2.2rem;
+    margin-left: 80px;
+    background-color:  rgb(236, 224, 113);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.container2{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(212, 206, 215);
+    text-decoration: none;
+}
+    
+.word1{
+    color: rgb(212, 206, 215);
+    font-size: 4rem;
+    
+}
+.word2{
+    color: rgb(236, 224, 113);
+    font-size: 4rem;
+}
+
+.class2{
+    font-size: 20px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-top: 60px;
+}
+.menu6{
+    background-color: rgba(86, 26, 142, 0.549);
+    text-decoration: none;
+    color: rgb(236, 224, 113);
+    margin-right: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.menu7{
+   background-color: rgba(86, 26, 142, 0.549);
+   text-decoration: none;
+   color: rgb(236, 224, 113);
+   margin-left: 25px;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+.image2{
+    width: 300px;
+    height: 320px;
+    margin-top: 150px;
+    margin-left: 55px;
+}
+
+.container3{
+    margin-top: 150px;
+    text-align: center;
+}
+.menu8{
+    font-size: 30px;
+    color: rgb(236, 224, 113);
+}
+.menu9{
+    color: rgb(212, 206, 215);
+    font-size: 50px;
+}
+.container4{
+    text-align: center;
+    font-size: 25px;
+}
+
+.image3{
+    width: 35px;
+}
+.menu10{
+    text-decoration: none;
+    background-color: rgba(86, 26, 142, 0.549);
+    color: rgb(236, 224, 113);
+    padding: 10px;
+    border-radius: 10px;
+}
+.container5{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(212, 206, 215);
+    margin-top: 150px;
+}
+.container6{
+    padding: 20px;
+    display: flex;
+}
+.image40{
+    max-width: 250px;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+.image4{
+    max-width: 250px;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.menu11{
+    text-decoration: none;
+}
+.container7{
+    margin-top: 10px;
+    font-size: 10px;
+    color: rgb(212, 206, 215);
+    display: flex;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-left: 20px;
+}
+.price{
+    margin-left: 160px;
+}
+.container8{
+    color: rgb(212, 206, 215);
+    margin-left: 180px;
+    margin-top: 150px;
+    font-size: 30px;
+}
+.menu12{
+    font-size: 30px;
+    color: rgb(236, 224, 113);
+}
+.container9{
+    display: flex;
+    margin-left: 200px;
+}
+.image5{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 10px;
+}
+.image6{
+    max-width: 190px;
+    max-height: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.image7{
+    max-width: 400px;
+    max-height: 200px;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+.image8{
+    max-width: 190px;
+    max-height: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.container10{
+    display: flex;   
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.inst{
+    max-width: 50px;
+    margin-left: 20px;
+}
+.tele{
+    max-width: 50px;
+    margin-left: 20px;
+}
+.mail{
+    max-width: 50px;
+    margin-left: 20px;
+}
+.footer{
+    background-color: black;
+    margin-top: 200px;
+    text-align: center;
+}
+.foot{
+    color: rgb(212, 206, 215);
+    font-size: 20px;
+    padding: 10px;
+}
